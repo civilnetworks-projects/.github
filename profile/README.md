@@ -1,4 +1,4 @@
-<p align="center" style="display:block; margin-inline:auto; max-width:50%; height:auto;">
+<p align="center" width="50%">
   <img src="https://images.civilservers.net/imgs/16c45ad9b114b239.webp" />
 </p>
 
